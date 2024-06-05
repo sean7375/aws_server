@@ -1,0 +1,15 @@
+{
+  "name": "api_testing",
+  "version": "1.0.0",
+  "description": "this is demo api_testing application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "olusean",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
